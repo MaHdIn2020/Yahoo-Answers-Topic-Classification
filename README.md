@@ -160,6 +160,7 @@ Yahoo-Answers-Text-Classification/
 │
 ├── figures/
 │   └── result.png
+│   └── confusion.png
 │
 ├── requirements.txt
 ├── README.md
@@ -185,9 +186,12 @@ Yahoo-Answers-Text-Classification/
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Tanjip Surait Mahdin**
+Computer Science, BRAC University
+
+**Khosnur Alam Shuchi**
 Computer Science, BRAC University
 
 ---
