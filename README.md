@@ -153,7 +153,7 @@ A visual comparison is shown below:
 Yahoo-Answers-Text-Classification/
 │
 ├── notebooks/
-│   └── Group04_22299341_22299167_ID3.ipynb
+│   └── Yahoo_Answers_Text_Classification.ipynb
 │
 ├── report/
 │   └── Yahoo_Answers_Text_Classification_Report.pdf
