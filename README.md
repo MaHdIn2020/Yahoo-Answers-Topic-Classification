@@ -131,7 +131,7 @@ Macro F1-score was emphasized due to the multi-class nature of the dataset.
 A visual comparison is shown below:
 
 <p align="center">
-  <img src="result.png" width="800">
+  <img src="/figures/result.png" width="800">
 </p>
 
 ---
